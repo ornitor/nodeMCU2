@@ -1,7 +1,8 @@
 # nodeMCU2
-Códigos da partida atividades básicas elementares de IoT com NodeMCU.
+Códigos da partida de um serie de seis atividades básicas elementares de IoT com NodeMCU.
 
 ## O que é a Internet das coisas?
+Não tem codigo de partida
 
 ## Conhecendo o Esp8266 NodeMCU
 conexao_com_a_rede.ino
